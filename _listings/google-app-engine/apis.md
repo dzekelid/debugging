@@ -14,9 +14,9 @@ tags:
 - Deployment
 - Compute
 - Cloud
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/debugging/master/_listings/google-app-engine/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/debugging/master/_listings/google-app-engine/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Google App Engine Admin API
@@ -28,7 +28,7 @@ apis:
   tags: Debugging
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/debugging/master/_listings/google-app-engine/v1-apps-appsid-services-servicesid-versions-versionsid-instances-instancesid-debug-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/debugging/master/_listings/google-app-engine/v1-apps-appsid-services-servicesid-versions-versionsid-instances-instancesid-debug-post.md
 x-common:
 - type: x-code-page
   url: https://cloud.google.com/appengine/docs/admin-api/client-libraries
